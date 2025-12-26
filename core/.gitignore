@@ -1,0 +1,9 @@
+# Security: NEVER upload API keys
+.env
+.env.local
+
+# Python junk
+__pycache__/
+*.pyc
+venv/
+.DS_Store
